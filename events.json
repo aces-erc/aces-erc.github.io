@@ -1,0 +1,32 @@
+[
+    {
+      "eventName": "Capture The Flag",
+      "imageLocation": "assets/img/events/ctf.jpg",
+      "deadline": "2022-12-31",
+      "registrationLink": "https://forms.gle/bTKZYMU4hD6t4FvR8"
+    },
+    {
+      "eventName": "Competitive Typing",
+      "imageLocation": "assets/img/events/comptyping.jpg",
+      "deadline": "2022-12-31",
+      "registrationLink": "https://forms.gle/RK9ALFLWcwb51DaVA"
+    },
+    {
+        "eventName": "e Football: PES Mobile",
+        "imageLocation": "assets/img/events/fifa.jpg",
+        "deadline": "2022-12-31",
+        "registrationLink": "https://forms.gle/e2EApwE65NEBqxsu9"
+    },
+    {
+        "eventName": "Live Coding",
+        "imageLocation": "assets/img/events/livecode.jpg",
+        "deadline": "2022-12-31",
+        "registrationLink": "https://forms.gle/gf8pLtCoUctJYkNx6"
+    },
+    {
+        "eventName": "Live Debugging",
+        "imageLocation": "assets/img/events/debuggin.webp",
+        "deadline": "2022-12-31",
+        "registrationLink": "https://forms.gle/KNrBisVkzNCZRWmY9"
+    }
+  ]
